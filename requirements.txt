@@ -5,7 +5,7 @@ gitdb==4.0.12
 GitPython==3.1.45
 iniconfig==2.1.0
 loguru==0.7.3
--e git+https://github.com/mneiferbag/python-examples.git@17320d2a87f4739cb13faa9f94f8016b7f4a40b0#egg=mncpyexamples
+-e .
 packaging==25.0
 pip-tools==7.5.0
 pluggy==1.6.0
