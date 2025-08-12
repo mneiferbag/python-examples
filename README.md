@@ -12,3 +12,7 @@ Collection of [Python](https://www.python.org/) development examples.
   * [asyncio](https://docs.python.org/3/library/asyncio.html)
 * Testing
   * [pytest](https://github.com/pytest-dev/pytest/)
+
+## Tasks
+
+* [ ] Add workflow to run tests
