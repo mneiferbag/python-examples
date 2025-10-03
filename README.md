@@ -11,6 +11,7 @@ Collection of [Python](https://www.python.org/) development examples.
 
 * General
   * [asyncio](https://docs.python.org/3/library/asyncio.html)
+  * [Learn X in Y minutes](https://learnxinyminutes.com/python/) Where X=Python
 * Testing
   * [pytest](https://github.com/pytest-dev/pytest/)
 
