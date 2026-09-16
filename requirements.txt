@@ -13,7 +13,7 @@ pluggy==1.6.0
 ply==3.11
 Pygments==2.20.0
 pyproject_hooks==1.2.0
-pytest==8.4.1
+pytest==9.0.3
 smmap==5.0.2
 tomli==2.2.1
 typing_extensions==4.14.1
